@@ -8,7 +8,7 @@ This is my COMP 115 Project 1. I used Python's turtle module to draw a fencing m
 
 ## What is in the drawing
 - A fencing piste (strip) in the middle
-- Two épée fencers facing each other (one red, one green)
+- Two épée fencers facing each other (one red and one green)
 - A scoreboard showing the score 14 - 14 and the timer 0:12
 - Overhead arena lights
 - A small Indian flag
